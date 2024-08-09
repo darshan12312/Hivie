@@ -2,7 +2,7 @@ import React from "react";
 import Skateboard from "./assets/Skateboard.png";
 import Shoes from "./assets/Shoes.png";
 import { CgArrowLongRight } from "react-icons/cg";
-import { FaChevronLeft } from "react-icons/fa6";
+
 
 function LandingPage() {
 
